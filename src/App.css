@@ -1,3 +1,14 @@
 .App {
   text-align: center;
+  padding: 15px;
+}
+
+.search-coins {
+  width: 200px;
+  border-radius: 3px;
+  border: 1px solid rgb(154, 153, 153);
+  background-color: #ccc;
+  margin-bottom: 15px;
+  outline: none;
+  padding: 3px;
 }
